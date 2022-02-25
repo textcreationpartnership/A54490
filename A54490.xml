@@ -1,0 +1,229 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A description of the venereal disease declaring the causes, signs, effects, and cure thereof. With a discourse of the most wonderful antivenereal pill. Prepared onely by Charles Peter, chyrurgeon, and practitioner in physick. And are to be sold at his House in St. Martins-lane, near Long-acre, over against the sign of the Castle.</title>
+            <author>Peter, Charles.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54490</idno>
+            <idno type="STC">Wing P1682</idno>
+            <idno type="STC">ESTC R221448</idno>
+            <idno type="EEBO-CITATION">99832754</idno>
+            <idno type="PROQUEST">99832754</idno>
+            <idno type="VID">37228</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54490)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37228)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2150:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A description of the venereal disease declaring the causes, signs, effects, and cure thereof. With a discourse of the most wonderful antivenereal pill. Prepared onely by Charles Peter, chyrurgeon, and practitioner in physick. And are to be sold at his House in St. Martins-lane, near Long-acre, over against the sign of the Castle.</title>
+                  <author>Peter, Charles.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sexually transmitted diseases --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37228:1" rendition="simple:additions"/>
+            <pb facs="tcp:37228:1" rendition="simple:additions"/>
+            <p>A DESCRIPTION OF THE <hi>VENEREAL DISEASE:</hi> DECLARING THE CAUSES, SIGNS, EFFECTS, And CURE thereof. With a DISCOURSE of the moſt Wonderful <hi>ANTIVENEREAL PILL.</hi>
+            </p>
+            <p>Prepared onely by <hi>CHARLES PETER, Chyrurgeon,</hi> and Practitioner in <hi>Phyſick.</hi> And are to be ſold at his Houſe in St. <hi>Mar<g ref="char:EOLhyphen"/>tins-lane,</hi> near <hi>Long-acre,</hi> over againſt the Sign of the <hi>Caſtle.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for the Author, 1678.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:37228:2"/>
+            <pb n="3" facs="tcp:37228:2"/>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>I Have, for the Common Good, made pub<g ref="char:EOLhyphen"/>lick my <hi>Antiveneral Pill.</hi> I doubt not but ſome will cavil at my Endeavours, and thoſe prehaps ſome of my own Profeſſion; though themſelves either cannot, or will not, advantage the Good of the Publick. The great number of People which I have ſeen in many Parts of this Kingdom to have periſh<g ref="char:EOLhyphen"/>ed (for want of Help) by the <hi>Venereal Diſ<g ref="char:EOLhyphen"/>eaſe,</hi> hath occaſioned me to unfold to the World what I never did intend to do, as touching the Diſeaſe: For the confidence of many Perſons, that pretend to cure this Di<g ref="char:EOLhyphen"/>ſtemper, and the ignorance of thoſe Perſons that adventure their Lives into the Hands of ſuch Impoſtors, who, without fear of God, or compaſſion to Mankind, promiſe Cure (let the Diſtemper be never ſo bad) taking Mo<g ref="char:EOLhyphen"/>ney in hand, and giving many ineffectual Doſes, either deſtroy the Patient, or make him worſe, perhaps throw him into a dange<g ref="char:EOLhyphen"/>rous Salivation, and ſo to his Grave. The which while I have often deplored, I thought my ſelfe bound in Conſcience to inform the People of a nearer and a better way of Cu<g ref="char:EOLhyphen"/>ring
+<pb n="4" facs="tcp:37228:3"/>
+than is too commonly practiſed by many bold <g ref="char:V">Ʋ</g>ndertakers. What Miſchiefs many illiterate Perſons have caus'd, by their ill-prepared Doſes, many miſerable Patients can witneſs, (the greater the ſhame) while we live in a Kingdom ſo well Furniſhed with Learned <hi>Phyſicians</hi> and Skilful <hi>Chyrurge<g ref="char:EOLhyphen"/>ons,</hi> whoſe Knowledge in <hi>Anatomy,</hi> and daily Experience, make them the onely Per<g ref="char:EOLhyphen"/>ſons capable of undertaking ſo dangerous a Malady. A Diſeaſe not to be trifled with: For, although generally we find in our Week<g ref="char:EOLhyphen"/>ly Bills of Mortality, that <hi>Conſumption</hi> is intituled the greateſt Executioner of Deaths Commands; yet I am of the opinion, that the <hi>Venereal Diſtemper</hi> is the greater De<g ref="char:EOLhyphen"/>ſtroyer of Mankind. I will therefore give thee an Account of the Nature of this <hi>Hydra,</hi> with a Diſcourſe of my <hi>Pill,</hi> which, I aſſure thee, is the choiceſt Remedy that can be uſed in all Effects of the <hi>Venereal Diſtemper.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div n="origin" type="section">
+            <p>COncerning the Original of the <hi>Venereal Diſ<g ref="char:EOLhyphen"/>eaſe,</hi> Authours are various, and differ much in the Name of it: The <hi>Italians</hi> call it <hi>Morbus Gallicus;</hi> the <hi>French</hi> call it <hi>Scabiem Hi<g ref="char:EOLhyphen"/>ſpanicam,</hi> and <hi>Morbum Italicum;</hi> in <hi>Spain</hi> they call it <hi>Morbum Neopolitanum;</hi> and ſeveral other Names it has, which for brevity I do omit. The <hi>French</hi> ſay, that the <hi>Italians</hi> firſt brought it among them;
+<pb n="5" facs="tcp:37228:3"/>
+the <hi>Spaniards</hi> they lay it on the <hi>French;</hi> and both <hi>Italians</hi> and <hi>French</hi> accuſe the <hi>Spaniard,</hi> and ſay, that <hi>Columbus</hi> brought home his Men infected with it from the <hi>Indies.</hi> But I think it matters not from whence it came, or what 'tis called, ſince 'tis known we have it in <hi>England</hi> as much as any where: The Common People here call it <hi>The French Pox;</hi> and I ſhall treat of it by the Name of <hi>Lues Venerea,</hi> un<g ref="char:EOLhyphen"/>der which Name I ſhall comprehend the <hi>Grand Pox;</hi> and the <hi>Gonorrhaea,</hi> and all Effects of either of them.</p>
+         </div>
+         <div n="causes" type="section">
+            <head>
+               <hi>The Cauſes of the</hi> Lues Venerea.</head>
+            <p>THE Cauſes of this Diſtemper are twofold: The firſt of an occult Quality, being as a Scourge laid on <hi>Mankind</hi> (by the <hi>Almighty</hi>) to re<g ref="char:EOLhyphen"/>ſtrain our too wanton <hi>Luſts;</hi> the other is by an <hi>im<g ref="char:EOLhyphen"/>pure touch</hi> or <hi>contagion,</hi> eſpecially in <hi>copulation;</hi> a Man receiving of an <hi>infected vapour</hi> or <hi>filthy ſanies</hi> into the <hi>pores</hi> of the <hi>skin,</hi> or into the <hi>
+                  <g ref="char:V">Ʋ</g>rethra</hi> (which is the Conduit of the <hi>Yard</hi>) in the time of <hi>copulation,</hi> as well before the ejecting of the <hi>ſeed,</hi> as after; the <hi>Woman</hi> having either a <hi>Gonorrhaea,</hi> or elſe an <hi>
+                  <g ref="char:V">Ʋ</g>lcer<g ref="char:punc">▪</g>
+               </hi> from the <hi>latter</hi> of which I have known to proceed ſo <hi>virulent</hi> an <hi>ichorous matter,</hi> that it hath penetrated the <hi>Yard</hi> immediately, and cauſed an <hi>
+                  <g ref="char:V">Ʋ</g>lcer.</hi>
+            </p>
+            <p>There are ſeveral other ways by which this <hi>Diſ<g ref="char:EOLhyphen"/>eaſe</hi> may be gotten; as by <hi>Sodomy, &amp;c.</hi> I have known ſome to get it by <hi>kiſſing:</hi> for if either party have an <hi>
+                  <g ref="char:V">Ʋ</g>lcer</hi> in the <hi>Throat,</hi> or in the <hi>Mouth,</hi> from which a <hi>ſlimie juyce</hi> proceeding, and the <hi>lips</hi> being moiſtned thereby, may very eaſily <hi>infect. Children</hi> are very ſubject to be infected this way: for, by reaſon the <hi>pores</hi> of their <hi>skin</hi> being open and apt to attract, they are ſoon injur'd by an <hi>unwholeſom kiſs.</hi>
+               <pb n="6" facs="tcp:37228:4"/>
+The <hi>venom</hi> is very, often communicated from <hi>Nur<g ref="char:EOLhyphen"/>ſes</hi> to <hi>Children,</hi> and as often <hi>Nurſes</hi> are infected by <hi>Children;</hi> therefore Parents ought to be careful in chuſing <hi>Nurſes,</hi> and <hi>Nurſes</hi> ought to take heed whoſe <hi>Children</hi> they <hi>ſuckle;</hi> for a very ſmall matter is able to infect either, and many <hi>Families</hi> have been un<g ref="char:EOLhyphen"/>done by receiving the <hi>Diſtemper</hi> this way. 'Tis dan<g ref="char:EOLhyphen"/>gerous to ſweat in a Bed with one that has the Pox, or to ſit over a Cloſe-ſtool where the <hi>excrements</hi> of a <hi>pockie perſon</hi> are. For <hi>drinking</hi> with them, 'tis not dangerous, unleſs their Mouths being <hi>ulcerated,</hi> they leave a <hi>pockie ſlime</hi> on the edges of the Cup; nor can their <hi>breaths</hi> infect, I am ſure, though ſome are of a contrary opinion. There is a great deal of va<g ref="char:EOLhyphen"/>riety in <hi>Bodies,</hi> ſome being far more eaſily <hi>infected</hi> than others, as <hi>ſanguine</hi> and <hi>phlegmatick perſons;</hi> but are more eaſily cured than <hi>cholerick</hi> or <hi>melancholy perſons</hi> are: as for example, I have known ſeveral <hi>Men</hi> to be concerned with one <hi>Woman,</hi> one ſoon after the other, and ſome to come off without being hurt, and the others dangerouſly pepper'd.</p>
+         </div>
+         <div n="signs" type="section">
+            <head>
+               <hi>The Signs of the</hi> Lues Venerea.</head>
+            <p>THe <hi>ſigns</hi> of this <hi>Diſtemper</hi> are various, accord<g ref="char:EOLhyphen"/>ing to the <hi>ſtrength</hi> and <hi>conſtitution</hi> of the Pati<g ref="char:EOLhyphen"/>ent. The general <hi>ſigns</hi> are theſe; <hi>viz.</hi> A great <hi>debi<g ref="char:EOLhyphen"/>lity</hi> of the <hi>whole Body,</hi> as if wearied by much <hi>labour, ſtiffneſs</hi> of all the <hi>Joynts,</hi> eſpeecially about the <hi>Hips</hi> and <hi>Thighs,</hi> great <hi>pulſation</hi> of the <hi>Arteries,</hi> a ſhoot<g ref="char:EOLhyphen"/>ing <hi>pain</hi> in the <hi>Groins, pain</hi> in the <hi>Cod, itching</hi> about the <hi>root</hi> of the <hi>Yard, ſherpneſs</hi> of <hi>
+                  <g ref="char:V">Ʋ</g>rine,</hi> a <hi>pricking pain</hi> in <hi>erection,</hi> a flowing of <hi>yellow ſanies</hi> from the <hi>Yard,</hi> and oft-times <hi>pain</hi> in the <hi>Back,</hi> and in the <hi>Head.</hi> Theſe are the <hi>infallible ſigns</hi> of a <hi>Gonorrhaea,</hi> ſome of
+<pb n="7" facs="tcp:37228:4"/>
+them hapning to one, and ſome to another; and I have known all of them to happen to <hi>one perſon,</hi> and at <hi>one time.</hi> Sometimes <hi>Caruncles</hi> do ſtop up the <hi>
+                  <g ref="char:V">Ʋ</g>rethra,</hi> ſometimes <hi>Buboes</hi> do ariſe in the <hi>Groins,</hi> which if once <hi>ſuppurate</hi> and <hi>opened</hi> handſomly, the <hi>Cure</hi> is performed with much eaſe; but if they are drove back into the <hi>body,</hi> they make the <hi>Diſtemper</hi> more inveterate, ſeiſe the <hi>Liver,</hi> and confirm a <hi>Pox.</hi> Some perſons immediately after the receiving of the <hi>Infection</hi> are taken with a <hi>giddineſs</hi> in the <hi>Head,</hi> and moſt terrible <hi>pains</hi> in the <hi>Eyes</hi> and <hi>Ears,</hi> and break out with ſmall red <hi>pimples,</hi> which preſently return into the <hi>Body,</hi> and a while after break out with foul <hi>ſcabs,</hi> ſome <hi>moiſt</hi> and <hi>ſpreading,</hi> though generally they are <hi>dry</hi> and <hi>hard,</hi> and very nearly repreſent the <hi>cup</hi> of an <hi>Acorn,</hi> both in <hi>ſhape</hi> and <hi>colour:</hi> Some have <hi>
+                  <g ref="char:V">Ʋ</g>lcers</hi> upon the <hi>head</hi> of the <hi>Yard,</hi> and upon the <hi>Fore-skin;</hi> ſome are troubled with <hi>Warts</hi> upon the <hi>Yard,</hi> and a<g ref="char:EOLhyphen"/>bout the <hi>Fundament:</hi> Theſe are certain <hi>ſymptoms</hi> of the <hi>Pox.</hi>—<hi>Note,</hi> That this <hi>Diſtemper</hi> doth vary much in its <hi>times,</hi> many times ſhewing it ſelf in <hi>one, two,</hi> or <hi>three days,</hi> ſometimes lying hid a <hi>month, two,</hi> or <hi>three,</hi> and ſometimes <hi>a year,</hi> or more; but it lieth not idle, for the longer it lies hid, the more inveterate it proves when once it appears; and oft-times diſguiſed under another <hi>name,</hi> it tyranniſeth in the Body, to the de<g ref="char:EOLhyphen"/>ſtruction of the Patient. I therefore adviſe all per<g ref="char:EOLhyphen"/>ſons, That ſo ſoon as they find themſelves touched with this <hi>venomous dart,</hi> they ſtraightway repair to ſuch perſons as are able to help them.</p>
+         </div>
+         <div n="effects" type="section">
+            <head>
+               <hi>The Effects of the</hi> Lues Venerea.</head>
+            <p>TO demonſtrate all the <hi>effects</hi> of this <hi>raging Di<g ref="char:EOLhyphen"/>ſtemper,</hi> would take me up much time; there<g ref="char:EOLhyphen"/>fore
+<pb n="8" facs="tcp:37228:5"/>
+as briefly as poſſible, I will acquaint thee how great a Tyrant this Diſeaſe is to thoſe People who ei<g ref="char:EOLhyphen"/>ther ſcorn to own they have it, or thoſe who being aſhamed to confeſs their condition, rather venture to undergo it, than wiſely to ſeek for <hi>help.</hi> I have known ſome ſo ſordidly fooliſh, that having had <hi>
+                  <g ref="char:V">Ʋ</g>lcers</hi> on the Head of the <hi>Yard,</hi> have ſo long ſlighted the Diſ<g ref="char:EOLhyphen"/>eaſe, until their <hi>Yards</hi> have been mortified even to the <hi>Belly,</hi> upon which enſued <hi>immediate death;</hi> and ſome eſcaping with their <hi>lives,</hi> have loſt all the <hi>Member.</hi> Others I have known to be almoſt eaten up with this Diſeaſe, before they have known ſo much as the <hi>name</hi> of their Malady. I have ſeen ſome that have been taken with a violent pain in the Head, and in all the Joynts, have fallen into a Fever, and died mad. Some have ſharp and continual pains in all the <hi>Joynts,</hi> eſpecially in the <hi>Shoulders</hi> and <hi>Shins,</hi> and <hi>Nodes</hi> affix<g ref="char:EOLhyphen"/>ed to the Bones in many parts of the Body, inſomuch that the very Bones become <hi>rotten;</hi> for this Humour is ſo penetrating, that it will creep between the Bone and the Fleſh, and conſume both. Some have the <hi>Yard</hi> ſo ſtopped with <hi>Caruncles,</hi> that they cannot make Water: Some have the <hi>
+                  <g ref="char:V">Ʋ</g>vula</hi> and the Palat of the Mouth eaten away by <hi>
+                  <g ref="char:V">Ʋ</g>lcers;</hi> and many you ſee loſe their Noſes by this violent Diſeaſe. Some have the Tip of the Noſe and Noſtrils eaten away; ſome loſe their Eyes, and many their Hearing, and ſome their Mouths drawn awry: And indeed I could quote multitudes of Examples of the fury of it. <hi>Oh, how intolerable are the pains that many poor wretches endure by this Diſtemper, eſpecially in the night, at which time it moſt boldly walks its Rounds to afflict poor Mortals!</hi> For indeed all Pains are worſe in the night than in the day, by reaſon that the exerciſing of the Body doth divert the pain in the
+<pb n="9" facs="tcp:37228:5"/>
+day, but the warmneſs of the Bed at night doth ſtir up the <hi>malignity;</hi> and the very <hi>thoughts</hi> of the Pati<g ref="char:EOLhyphen"/>ent in the night being fixed on the <hi>object</hi> of <hi>pain,</hi> doth make the miſery more intolerable. Many years have ſome undergone the tyranny of this Diſtemper, till at laſt, it having enervated all the parts of the Body, and conſumed the Fleſh to the Bones, it ſurrenders them to the Grave; whom perhaps, had they but uſed ſuch Medicines as had been proper in ſuch caſes, they might ſoon have eradicated the <hi>venom</hi> out of their Bodies: But, as I have ſaid before, 'tis not a few, but many thouſands, that have periſhed for want of ſuch noble Medicines as have force to overcome the <hi>ma<g ref="char:EOLhyphen"/>lignity</hi> of this Diſeaſe. How many <hi>Conſumptions, Catarhs, Aſthmaes,</hi> and innumerable more Diſeaſes, proceed from nothing elſe but this Fountain? I tell thee, <hi>Reader,</hi> 'tis <hi>this</hi> that is the <hi>domineering Diſtemper</hi> of <hi>our Age,</hi> though people are of opinion that the <hi>Scurvie</hi> is more prevailing, which indeed is a very deſtructive Malady, incident to moſt Men, eſpecially to thoſe that eat over-much Fleſh, or lead ſedentary Lives, and to Sea-men in long Voyages: for the re<g ref="char:EOLhyphen"/>liques of the <hi>Lues Venerea</hi> doth many times convert into the <hi>Scurvie</hi> and <hi>Dropſie,</hi> and not ſeldom into the <hi>Gout.</hi> And <hi>I</hi> pray obſerve this, That whereever any Diſtemper happens to be complicated with the <hi>Vene<g ref="char:EOLhyphen"/>real Diſeaſe,</hi> or any Relique of it, it always proves <hi>very ſtubborn,</hi> and will not yield to <hi>ordinary Means,</hi> and indeed cannot be perfectly cured without the uſe of good <hi>Antivenereal Medicines.</hi>
+            </p>
+         </div>
+         <div n="cure" type="section">
+            <head>
+               <hi>Concerning the Cure of the</hi> Lues Venerea.</head>
+            <p>IT may be expected <hi>I</hi> ſhould be large on <hi>this ſub<g ref="char:EOLhyphen"/>ject,</hi> ſince 'tis ſo generally known, that <hi>I</hi> have
+<pb n="10" facs="tcp:37228:6"/>
+had ſo great an <hi>experience</hi> of it; but ſhould I relate the <hi>many Obſervations</hi> I have made of this <hi>Diſtemper,</hi> they would fill a <hi>Volume:</hi> But, <hi>Reader,</hi> ſince per<g ref="char:EOLhyphen"/>haps thou art a <hi>ſtranger</hi> to my <hi>Name,</hi> I ſhall ac<g ref="char:EOLhyphen"/>quaint thee with ſome <hi>few particulars,</hi> that thou mayſt know I am no <hi>Youngſter</hi> at the <hi>Cure</hi> of <hi>this Diſeaſe.</hi> Among the <hi>great number</hi> of thoſe that pre<g ref="char:EOLhyphen"/>tend to the <hi>Cure</hi> of <hi>this Diſtemper,</hi> I have found <hi>very few</hi> that could give any <hi>rational Account</hi> of it, moſt of them following the <hi>Methods</hi> of <hi>ancient Au<g ref="char:EOLhyphen"/>thors,</hi> which in <hi>former Ages</hi> undoubtedly were <hi>very knowing</hi> in <hi>their way;</hi> but the <hi>Diſeaſe</hi> is ſo much al<g ref="char:EOLhyphen"/>tered in <hi>this our Age,</hi> that he which depends on <hi>for<g ref="char:EOLhyphen"/>mer preſcriptions</hi> will find his <hi>Medicines invalid.</hi> There have been uſed, and ſtill are, many ways for the <hi>curing</hi> of this <hi>Malady:</hi> Some uſe <hi>Fumigations;</hi> ſome <hi>Salivation,</hi> either by <hi>Medicines</hi> given <hi>inwardly,</hi> or by <hi>
+                  <g ref="char:V">Ʋ</g>nction outwardly:</hi> Some uſe <hi>Bathing</hi> and <hi>Sweating;</hi> others work by <hi>Diet,</hi> and others by <hi>pur<g ref="char:EOLhyphen"/>ging;</hi> ſome make <hi>Iſſues</hi> in many parts of the <hi>Body,</hi> to evacuate the <hi>offending Humour.</hi> The way by <hi>Fu<g ref="char:EOLhyphen"/>migations</hi> I am againſt, and the uſe of them is now out of doors, being found to be <hi>very dangerous.</hi> I cannot approve of <hi>Salivation,</hi> for many Reaſons; for whoever he be that undergoes a <hi>Salivation</hi> (which ought to continue at leaſt <hi>twenty one days</hi>) muſt have the <hi>patience</hi> of <hi>Job,</hi> or elſe he will never endure the <hi>torture</hi> that attends it; and I am of the opinion, that if Caſes were <hi>equally balanced,</hi> you would find as many to be <hi>deſtroyed</hi> by <hi>Salivating,</hi> as ever were <hi>re<g ref="char:EOLhyphen"/>lieved</hi> by it: as for example, 'Tis certain, that no <hi>Salivation</hi> can be raiſed but by <hi>Mercurial Medicines,</hi> which I have often ſeen many to lament the raſh uſe of; for by overcharging the <hi>Tonſillae</hi> (which are the <hi>glandulous Bodies</hi> through which the <hi>Spittle</hi> cometh)
+<pb n="11" facs="tcp:37228:6"/>
+and <hi>Amygdales</hi> (commonly called the <hi>Almonds of the Ears</hi>) with the <hi>virulent Matter</hi> which they ſtrive to evacuate by <hi>ſpitting,</hi> I have often known ſuch <hi>In<g ref="char:EOLhyphen"/>flammations,</hi> and after them <hi>
+                  <g ref="char:V">Ʋ</g>lcerations</hi> to happen, that the <hi>patient</hi> has been near <hi>choaked,</hi> and the <hi>acri<g ref="char:EOLhyphen"/>mony</hi> of the <hi>Humor</hi> lodged among the <hi>parts,</hi> until not onely it have eaten away the <hi>
+                  <g ref="char:V">Ʋ</g>vula,</hi> but fouled the <hi>palat</hi> of the <hi>Mouth,</hi> and oftentimes the <hi>bones</hi> of the <hi>noſe;</hi> and I am certain, that moſt of thoſe <hi>bridg-fallen Noſes</hi> that we daily ſee, are occaſioned by <hi>Sa<g ref="char:EOLhyphen"/>livation.</hi> But ſuppoſe the <hi>patient</hi> to eſcape all theſe <hi>Accidents,</hi> do but conſider, how this way fouls the <hi>Teeth,</hi> beyond the help of any <hi>Medicine</hi> to cleanſe again; and many times it leaves a <hi>ſtinking Breath,</hi> or perhaps it only leaves them a <hi>pain</hi> in their <hi>Joynts.</hi> Methinks, theſe things conſidered, People ſhould not eaſily be perſuaded to this ſort of <hi>Cure,</hi> eſpecially if they did but know what <hi>Spaſmaes</hi> (or <hi>Convulſions</hi> of the <hi>Nerves</hi>) have been occaſioned by it: I have ſeen <hi>Mouths drawn awry,</hi> and <hi>ſquinting</hi> cauſed by it; <hi>Limbs contracted,</hi> and innumerable more <hi>miſchiefs</hi> to ariſe from it: and I have been more troubled to help thoſe <hi>Accidents</hi> that have hapned by reaſon of <hi>Sali<g ref="char:EOLhyphen"/>vation,</hi> than ever I was to cure the <hi>Diſtemper</hi> it ſelf. <hi>Sweating</hi> I approve of, and likewiſe of <hi>Bathing;</hi> for being uſed in <hi>due time</hi> and <hi>place,</hi> they are very be<g ref="char:EOLhyphen"/>neficial: for they attenuate the <hi>Humours,</hi> make the <hi>Body</hi> lively, and help to evacuate the <hi>Matter;</hi> eſpe<g ref="char:EOLhyphen"/>cially if any <hi>viſcous Matter</hi> have poſſeſſed the <hi>Joynts,</hi> they by their <hi>moderate heat</hi> do help to diſcuſs it. As for <hi>Iſſues,</hi> they ſerve well enough to attract and diſcharge the <hi>Humour,</hi> therefore very proper where the <hi>Eyes</hi> are affected, or in any <hi>diſtillation</hi> of the <hi>Humour,</hi> or in a <hi>Catarrh</hi> or <hi>Aſthma,</hi> they help much; but have no power of themſelves to overcome the
+<pb n="12" facs="tcp:37228:7"/>
+               <hi>Malignity.</hi> But of all ways imaginable, there is none like <hi>Diet</hi> and <hi>Purging,</hi> which if rightly prepared, and carefully uſed, do infallibly eradicate the Diſtemper. <hi>I</hi> can by many years experience ſay, That <hi>Purging</hi> is the moſt exeellent way of <hi>Curing; I</hi> mean, purging with ſuch noble Medicines as have the power to cor<g ref="char:EOLhyphen"/>rect the Malignity of ſo <hi>virulent</hi> a Diſeaſe: for 'tis not every of thoſe <hi>common</hi> Purgers that have power to overcome the <hi>Malignity;</hi> but ſuch <hi>Specificks</hi> which not onely purge the offending Humour, but by their admirable Qualities cleanſe the Blood, fortifie the Heart, Liver, and Brain, and clearly extirpate the Diſeaſe from the Body. And indeed, the onely Medi<g ref="char:EOLhyphen"/>cine that ever <hi>I</hi> have found prevalent in theſe Caſes, is my <hi>Antivenereal Pills,</hi> which work ſo ſafely and ſo ſurely, that <hi>I</hi> never knew them fail, if taken carefully. <hi>I</hi> never uſe any other Medicine in all manner of <hi>Claps;</hi> and <hi>I</hi> could quote vaſt numbers of People that have been cured by them, to my great pleaſure and profit (but Silence in ſuch caſes is and always ſhall be my reſolution). In the <hi>Pox</hi> there have been ſuch ſtrange Cures wrought by this Pill, that have made many of my own Profeſſion to admire the Vertues of it.</p>
+            <p>Wherefore ſince it hath pleaſed God to grant me the knowledge of ſo wonderful a Medicine, <hi>I</hi> could not reſt ſatisfied in my mind until <hi>I</hi> publiſhed it for the good of the World. And now, <hi>Reader,</hi> pray be ſo charitable in thy Opinion of me, as not to judge me guilty of encouraging of Luſt, by my acquaint<g ref="char:EOLhyphen"/>ing the World with the Effects of it, and the way to get out of the Labyrinth which it generally leaves Men in; neither think that <hi>I</hi> deſire more to gain by my Labours, than to do good to my Country:
+<q>
+                  <hi>Quia, Nos non nobis nati ſumus.</hi>
+               </q>
+            </p>
+         </div>
+         <div n="prescription" type="section">
+            <pb n="13" facs="tcp:37228:7"/>
+            <head>The ANTIVENEREAL PILL.</head>
+            <p>THeſe Pills are of moſt wonderful Vertue; they work by Stool and Urine, and gently move Sweat: They work moſt by Urine; for 'tis but ra<g ref="char:EOLhyphen"/>tional the Diſtemper ſhould be caſt out the ſame way it was received. They work by Stool pleaſantly, without any gripings or tortions of the Guts. They do moſt admirably correct the virulency, and take away the ſharpneſs of Urine, in three or four times taking; and <hi>I</hi> aſſure thee, upon the Faith of a <hi>Chri<g ref="char:EOLhyphen"/>ſtian,</hi> that <hi>I</hi> have many times cured a <hi>freſh Clap</hi> with eight or nine Doſes of them, and ſometimes with fewer, and that ſafely, without any relapſe, and with<g ref="char:EOLhyphen"/>out any uſe of Reſtringent Medicines; (for 'tis a com<g ref="char:EOLhyphen"/>mon trick among raſh Practitioners, that having given half a dozen or more Purges, they preſently admini<g ref="char:EOLhyphen"/>ſter Reſtringents, and ſo ſtop the Humour, which will not lie ſtill, but returning into the Body, ſeiſes the Li<g ref="char:EOLhyphen"/>ver, corrupts the whole maſs of Blood, and conſe<g ref="char:EOLhyphen"/>quently confirms a Pox in the Body, perhaps to the utter ruine of the Patient. Theſe Pills are balſa<g ref="char:EOLhyphen"/>mick, as well as cathartick, and therefore do all the <hi>Intentions of Curing.</hi> They are to be taken two, three, or four at a time, ſtill obſerving to alter the Doſe, ac<g ref="char:EOLhyphen"/>cording to the ſtrength of the Patient. Two may be taken by any one for the firſt Doſe; and if they do not work by Stool ſeven or eight times, then increaſe the Doſe the next day. They ought to be taken two days together, and the Party to reſt the third, and then to fall to them again; but if the Diſtemper be inve<g ref="char:EOLhyphen"/>terate, let the Patient continue taking them without intermiſſion; for they will work onely on the <hi>offend<g ref="char:EOLhyphen"/>ing</hi>
+               <pb n="14" facs="tcp:37228:8"/>
+               <hi>Humour.</hi> The beſt way of taking them is <hi>early in the morning,</hi> and to lie in Bed and ſleep <hi>two or three hours</hi> after the taking of them. Sometimes I order them to be taken <hi>at night,</hi> when the party goes to bed; but then the <hi>doſe</hi> muſt not exceed <hi>two,</hi> or <hi>three</hi> at the moſt. And <hi>note,</hi> That the party which takes them at <hi>night,</hi> ought to eat no <hi>ſupper,</hi> but early in the <hi>morning</hi> to drink ſomething that is warm; for they will work by <hi>Stool</hi> ſo ſoon as the party riſes. Thoſe who take them in the <hi>morning,</hi> whether they lie in bed or not after they have took them, they ought in <hi>three hours</hi> after them to take a draught of <hi>warm Ale, Poſſet-drink, Water-grewel,</hi> or <hi>Mutton</hi> or <hi>Veal-broth,</hi> which will much help the <hi>working</hi> of them. Any one may ſafely go abroad after they have taken them, but it would be better if they keep within till near Noon: at Dinner they may eat heartily of <hi>freſh Meats,</hi> and drink <hi>Wine,</hi> provided they exceed not <hi>one pint a day;</hi> for I have found by experience, that <hi>Wine,</hi> moderately drank, is beneficial in <hi>moſt Diſea<g ref="char:EOLhyphen"/>ſes;</hi> and I find, that in <hi>Claps,</hi> or any <hi>Diſtemper</hi> where the <hi>
+                  <g ref="char:V">Ʋ</g>rinary paſſages</hi> are affected, <hi>Wine</hi> helpeth much, eſpecially <hi>White wine.</hi>
+            </p>
+            <p>This Pill is ſo <hi>ſafely</hi> prepared, that it may be ta<g ref="char:EOLhyphen"/>ken by <hi>any perſon</hi> without danger, (as <hi>Women with Child, &amp;c.</hi>) and the <hi>operation</hi> of it is ſo <hi>free</hi> and <hi>eaſie,</hi> that it is <hi>pleaſant,</hi> as well as <hi>profitable.</hi> It hath no <hi>cor<g ref="char:EOLhyphen"/>roding quality,</hi> nor doth it cauſe any <hi>unſavoury belch<g ref="char:EOLhyphen"/>ings,</hi> as loathſom <hi>Boles</hi> and Potions do. There is no perſon but may take it, and go about their Buſineſs as if they ailed nothing; nor can any one perceive that the party has taken <hi>any thing<g ref="char:punc">▪</g>
+               </hi> for it exhilerates all the <hi>vital Faculties,</hi> it being as much <hi>cordial</hi> as <hi>purgative.</hi> It not onely cures <hi>ſafely, pleaſantly,</hi> and <hi>quickly;</hi> but 'tis a <hi>great preſervative</hi> againſt the <hi>In<g ref="char:EOLhyphen"/>fection:</hi>
+               <pb n="15" facs="tcp:37228:8"/>
+A <hi>Doſe</hi> taken immediately after the <hi>Act,</hi> ei<g ref="char:EOLhyphen"/>ther carrieth away all <hi>venom</hi> with it, or cauſeth it forthwith to ſhew it ſelf, whereby a more <hi>ſpeedy Cure</hi> is acquired. In a word, I am certain there is no <hi>Medicine</hi> in the World mor efficacious (in all <hi>Ef<g ref="char:EOLhyphen"/>fects</hi> of the <hi>Foul Diſeaſe</hi>) than theſe moſt excellent Pills are.</p>
+            <p>In <hi>all manner</hi> of <hi>Poxes</hi> I have found them moſt admirable: I have cured people which have been afflicted with all the <hi>varieties</hi> of the <hi>Pox,</hi> by theſe Pills onely: as for example, In an <hi>old conſumptive Pox,</hi> where the parties have been ſo weakned by continual pains that they could ſcarce ſtir, I have ad<g ref="char:EOLhyphen"/>miniſtred theſe worthy Pills, which have worked ſo effectually with correcting the <hi>Cauſe,</hi> and evacuating the <hi>offending Humour,</hi> and by their nutritive quality corroborating the <hi>vital parts,</hi> they have ſoon reſtored the Patients to perfect health.</p>
+            <p>Others whoſe Privy-parts have been covered with Warts (which is an abſolute demonſtration that the Diſtemper hath taken root in the Body) I have given them of theſe Pills, which have eradicated the Di<g ref="char:EOLhyphen"/>ſtemper, that the Warts have conſumed without any <hi>local Applications.</hi>
+            </p>
+            <p>I have cured many of large <hi>Nodes</hi> by the uſe of theſe Pills; for they diſſolve them, and purge away the dregs of the Diſeaſe. Theſe <hi>Nodes</hi> are cauſed by the phlegmatick part of the Venom left behind in ill managed Cures: they are very painful Swellings, ſometimes on the Shins onely, and many times in many parts of the Body; and the Bones are often fouled by them, if not great care taken.</p>
+            <p>I have met with many rebellious <hi>
+                  <g ref="char:V">Ʋ</g>lcers</hi> in the Privy-parts, and in many other parts of the Body, which have reſiſted the force of many good Medi<g ref="char:EOLhyphen"/>cines
+<pb n="16" facs="tcp:37228:9"/>
+outwardly applied: In all ſuch caſes I have uſed theſe Pilla, which has ſo changed the ill habit of the Body of the Patients, that their Sores have eaſily yielded to the ſame Medicines, and incarnated hand<g ref="char:EOLhyphen"/>ſomly, and have been cured without any relapſe. <hi>Reader,</hi> I could relate much more of the Virtues of theſe excellent Pills: but I ſuppoſe, what I have al<g ref="char:EOLhyphen"/>ready ſaid may be ſatisfactory enough: but if thou art dubious of any thing that thou haſt read here, I ſhall be very willing to ſatisfie thee in it, and I queſti<g ref="char:EOLhyphen"/>on not but to juſtifie what I have here publiſhed to the World.</p>
+            <p>Thoſe to whom Pills are troubleſom to ſwallow; may take them in the pulp of an Apple, a ſtew'd Prune, a Raiſin, or a preſerv'd Cherry; or they may put them into a piece of Leaf-Wafer, and take them in a ſpoonful of Ale; or any other Liquor, as they beſt like.</p>
+            <p>Theſe Pills are put up in Tin Boxes, and ſealed with my Coat of Arms; each Box containing Thirty Pills, and are ſold for Four ſhillings the Box. They are ſold at my own Houſe, and the following places.</p>
+            <list>
+               <item>
+                  <hi>Mr.</hi> Thomas Burrell<hi>'s Book-ſeller, at the</hi> Golden Ball <hi>under</hi> St. Dunſtans <hi>Church in</hi> Fleet-ſtreet.</item>
+               <item>
+                  <hi>And at the Sign of the</hi> Printing-Preſs, <hi>in the</hi> Piazza <hi>on the South-ſide of the</hi> Royal-Exchange.</item>
+            </list>
+            <p>
+               <hi>I have in my Houſe moſt convenient and cleanly Bathes, likewiſe very good Conveni<g ref="char:EOLhyphen"/>encies of Sweating, by all the ſeveral ways uſed here, or in Foreign Parts.</hi>
+            </p>
+            <pb facs="tcp:37228:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
